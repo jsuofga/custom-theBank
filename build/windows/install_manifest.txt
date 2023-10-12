@@ -1,0 +1,13 @@
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/icudtl.dat
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/flutter_windows.dll
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/assets/andmt_logo.png
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/assets/bank_logo.png
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/NOTICES
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/SouPen-Projects/FlutterProjects/the_bank/build/windows/runner/Release/data/app.so
